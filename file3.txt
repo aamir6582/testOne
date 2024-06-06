@@ -3,3 +3,7 @@ This is line2
 This is line3 modified by aamir
 This is line4 modified by aamir
 This is line5
+This is line6 for stashing 
+this is line7 for stashing
+this is line 8
+this is line 9
